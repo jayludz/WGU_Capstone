@@ -13,4 +13,4 @@ A logistic regression model is created to predict fraudulent job advertisements 
   - **data_prep.sas**: prepares the raw EMSCAD for analysis.
   - **visualizations.sas**: generates various data visualizations.
   - **logistic_regression.sas**: creates and evaulates logistic regression model.
-4. The Reports folder contains **Executive_Summary.pdf** (a brief summary of the project) and **Capstone_report.pdf** (a more comprehensive account of the project).
+4. The Reports folder contains **Executive_Summary.pdf** (a brief summary of the project) and **Capstone_report.pdf** (a more comprehensive report).
