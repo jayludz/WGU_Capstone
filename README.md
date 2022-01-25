@@ -14,3 +14,5 @@ A logistic regression model is created to predict fraudulent job advertisements 
   - **visualizations.sas**: generates various data visualizations.
   - **logistic_regression.sas**: creates and evaulates logistic regression model.
 4. The Reports folder contains **Executive_Summary.pdf** (a brief summary of the project) and **Capstone_report.pdf** (a more comprehensive report).
+
+The project was the author's capstone for the MS Data Analytics program at Western Governors University.
