@@ -1,4 +1,4 @@
-# WGU_Capstone_Project
+# WGU_Capstone
 
 Author: John Ludlum
 
